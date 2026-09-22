@@ -6,3 +6,5 @@ future updates will come so i got to know about it and its is pretty cheap like 
 it will be a changing point in industry as is like making things cheap and more trustable 
 
 its website link https://typesafe.ai/blog/introducing-system-one-models-and-jev
+
+<img width="1811" height="929" alt="image" src="https://github.com/user-attachments/assets/a7a113ca-bcfa-4df9-af59-9a84b2b975c9" />
